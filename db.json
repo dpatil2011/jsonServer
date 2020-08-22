@@ -1,12 +1,5 @@
 {
 	"ok": [true],
-        "users": [{
-		          "id": 1,
-		 },
-		  {
-			  "id": 2,
-		  }
-		 ],
 	"members": [{
 			"id": "W012A3CDE",
 			"real_name": "Egon Spengler",
