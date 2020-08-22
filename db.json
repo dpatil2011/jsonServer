@@ -1,5 +1,16 @@
 {
 	"ok": [true],
+	"users": [{
+			"id": "1",
+			"username": "dpatil",
+			"password": "123"
+		},
+		{
+			"id": "1",
+			"username": "drp",
+			"password": "123"
+		}
+	],
 	"members": [{
 			"id": "W012A3CDE",
 			"real_name": "Egon Spengler",
